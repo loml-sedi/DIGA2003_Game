@@ -23,9 +23,6 @@ public class collectable : MonoBehaviour
                 collectableManager.Changecollectable(value);
                 Destroy(gameObject);
          }
-        //for score.
-        collectableManager.Changecollectable(value);
-        Destroy(gameObject);
     }
 
 }
