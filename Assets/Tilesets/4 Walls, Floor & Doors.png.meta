@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f536c09562fa8ea43bba7aeb3b8f9266
+guid: 0ad49e121b1759d4bb2d22e56759ba34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9215616447249107775
-    second: tileFloor_0
+      213: -5290906568474672631
+    second: 4 Walls, Floor & Doors_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,9 +40,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tileFloor_0
+      name: 4 Walls, Floor & Doors_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
-        height: 256
+        width: 128
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c4387beaad8b1080800000000000000
-      internalID: -9215616447249107775
+      spriteID: 9024946228ce296b0800000000000000
+      internalID: -5290906568474672631
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tileFloor_0: -9215616447249107775
+      4 Walls, Floor & Doors_0: -5290906568474672631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
