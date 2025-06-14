@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 485cd7c8293a4f84f936a36fdc29f413
+guid: 9cb88fb1aab52db4ea70189ba74f4541
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5486130408250307485
-    second: betterPuppetPiece_0
+      213: -7110092086823161670
+    second: ResumeB2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: betterPuppetPiece_0
+      name: ResumeB2_0
       rect:
         serializedVersion: 2
-        x: 383
-        y: 399
-        width: 290
-        height: 322
+        x: 434
+        y: 250
+        width: 144
+        height: 155
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d937a3f1a86a22c40800000000000000
-      internalID: 5486130408250307485
+      spriteID: ab0f69cfae0e35d90800000000000000
+      internalID: -7110092086823161670
       vertices: []
       indices: 
       edges: []
@@ -160,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      betterPuppetPiece_0: 5486130408250307485
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
