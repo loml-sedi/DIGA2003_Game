@@ -16,7 +16,7 @@ public class ImmunityButton : MonoBehaviour
     public PlayerImmunity playerImmunity;
     public Image cooldownOverlay;
     public float cooldownDuration = 5f;
-    public Vector2 screenPosition = new Vector2(0, -200); 
+    public Vector2 screenPosition = new Vector2(-30, 70); 
 
     private Button _button;
     private RectTransform _rectTransform;
