@@ -18,11 +18,12 @@ public class collectable : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player") && !hasTriggered)
-
-            hasTriggered = true;
-        //for score.
-        collectableManager.Changecollectable(value);
-        Destroy(gameObject);
+         {
+                hasTriggered = true;
+                collectableManager.Changecollectable(value);
+                Destroy(gameObject);
+         }
     }
+
 }
 
