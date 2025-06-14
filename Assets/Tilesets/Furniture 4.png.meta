@@ -154,6 +154,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -522,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Furniture 4_0: -4608435887851721819
+      Furniture 4_1: 5672290735333424014
+      Furniture 4_10: 4640526950771485854
+      Furniture 4_11: -2268116974853142148
+      Furniture 4_12: -8434118592799201401
+      Furniture 4_13: -5790350512266318504
+      Furniture 4_14: 5335516946258230813
+      Furniture 4_15: 1890336664475503470
+      Furniture 4_2: -234359869130779946
+      Furniture 4_3: 5521499302797046219
+      Furniture 4_4: -5380422215874047540
+      Furniture 4_5: 2305518573135445969
+      Furniture 4_6: -7497486037066498169
+      Furniture 4_7: -2108233150516358447
+      Furniture 4_8: -5308566946106837677
+      Furniture 4_9: 8894462955777976548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
