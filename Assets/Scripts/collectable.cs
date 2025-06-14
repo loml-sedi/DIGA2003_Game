@@ -5,10 +5,10 @@ public class collectable : MonoBehaviour
     [SerializeField] private int value;
     private bool hasTriggered;
 
-    private collectableManager collectableManager;
+    private CollectableManager collectableManager;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    private void Start() => collectableManager = collectableManager.instance;
+    private void Start() => collectableManager = CollectableManager.instance;
 
     // Update is called once per frame
     void Update()

@@ -1,46 +1,90 @@
 ﻿using UnityEngine;
 
-/*
- * Blackthornprod, 2018. #14 | COLLISIONS AND TRIGGERS IN UNITY 🎮 | Unity For Beginners | Unity Tutorial. [Online] Available at: https://youtu.be/MfKyUkZb1V4?si=zwu6vXi_Y4Bycn0D (Accessed: 18 April 2025) 
- */
-
 public class MagicBox : MonoBehaviour
 {
     [Header("Settings")]
-    public int requiredObjects = 5;
+    public int requiredObjects = 0; // Set to 0 for instant unlock
     public GameObject puppetPrefab;
     public Transform spawnPoint;
+    public VentSystem ventSystem;
+
+    [Header("Effects")]
+    public ParticleSystem spawnEffect;
+    public AudioClip unlockSound;
+
+    private bool hasActivated = false;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && !hasActivated)
         {
-            DepositObjects();
+            AttemptActivation();
         }
     }
 
-    void DepositObjects()
+    void AttemptActivation()
     {
-        collectableManager manager = collectableManager.instance;
-
-        Debug.Log($"Current objects: {manager.GetCurrentCollectable()}, Required: {requiredObjects}");
-
-        if (manager.GetCurrentCollectable() >= requiredObjects)
+        // Verify collectables
+        if (CollectableManager.instance.GetCurrentCollectable() >= requiredObjects)
         {
-            Debug.Log("Attempting to spawn puppet...");
-            if (puppetPrefab == null) Debug.LogError("Missing puppetPrefab!");
-            if (spawnPoint == null) Debug.LogError("Missing spawnPoint!");
+            SpawnNPC();
+            UnlockVent();
+            hasActivated = true;
+        }
+        else
+        {
+            Debug.LogWarning($"Not enough collectables! Have: {CollectableManager.instance.GetCurrentCollectable()}, Need: {requiredObjects}");
+        }
+    }
 
-            Instantiate(puppetPrefab, spawnPoint.position, Quaternion.identity);
-            manager.Changecollectable(-requiredObjects);
-            Debug.Log("Puppet spawned successfully!");
+    void SpawnNPC()
+    {
+        if (puppetPrefab == null)
+        {
+            Debug.LogError("Puppet prefab not assigned!");
+            return;
         }
 
-        if (manager.GetCurrentCollectable() >= requiredObjects)
+        if (spawnPoint == null)
         {
-            Instantiate(puppetPrefab, spawnPoint.position, Quaternion.identity);
+            Debug.LogError("Spawn point not assigned!");
+            return;
+        }
 
-            manager.Changecollectable(-requiredObjects);
+        // Spawn NPC
+        Instantiate(puppetPrefab, spawnPoint.position, Quaternion.identity);
+
+        // Play effects
+        if (spawnEffect != null)
+            Instantiate(spawnEffect, spawnPoint.position, Quaternion.identity);
+    }
+
+    void UnlockVent()
+    {
+        if (ventSystem == null)
+        {
+            Debug.LogError("VentSystem not assigned!");
+            return;
+        }
+
+        // Directly unlock the vent
+        ventSystem.isLocked = false;
+        ventSystem.UpdateAppearance();
+
+        // Play sound
+        if (unlockSound != null)
+            AudioSource.PlayClipAtPoint(unlockSound, transform.position);
+
+        Debug.Log($"Vent unlocked! isLocked={ventSystem.isLocked}");
+    }
+
+    // Debugging aid
+    private void OnDrawGizmos()
+    {
+        if (spawnPoint != null)
+        {
+            Gizmos.color = Color.green;
+            Gizmos.DrawWireSphere(spawnPoint.position, 0.5f);
         }
     }
 }

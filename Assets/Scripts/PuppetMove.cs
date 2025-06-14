@@ -8,7 +8,7 @@ using UnityEngine;
 public class PuppetMove : MonoBehaviour
 {
     public float followSpeed = 3f;
-    public float followDistance = 1f;
+    public float followDistance = 10f;
     public bool IsFollowing { get; private set; } 
     private Transform player;
 
