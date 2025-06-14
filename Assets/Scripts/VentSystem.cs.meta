@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a1f05dbfba00b5468d305ed53d33c62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lockedSprite: {instanceID: 0}
+  - unlockedSprite: {fileID: -3392885455431205278, guid: b14207defa8cae1468bbcdecb3ea740d, type: 3}
+  - unlockParticles: {instanceID: 0}
+  - unlockSound: {fileID: 8300000, guid: 4a30feb65f04e714dafae48ec44d1e67, type: 3}
+  - ventEnterSound: {fileID: 8300000, guid: 332f92697bae64e48b3717bcc32aa2bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
