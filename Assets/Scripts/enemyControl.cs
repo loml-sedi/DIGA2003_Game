@@ -45,7 +45,5 @@ public class enemyControl : MonoBehaviour
             currentPoint = pointB.transform;
         }
 
-
-
     }
 }
