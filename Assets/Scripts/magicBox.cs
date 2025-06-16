@@ -13,27 +13,33 @@ public class MagicBox : MonoBehaviour
     public AudioClip unlockSound;
 
     private bool hasActivated = false;
+    private bool canSpawnPuppet = false; // New flag to control puppet spawning
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && !hasActivated)
         {
-            AttemptActivation();
+            // Check if player has enough collectables
+            if (CollectableManager.instance.GetCurrentCollectable() >= requiredObjects)
+            {
+                canSpawnPuppet = true; // Allow puppet to spawn
+                UnlockVent(); // Unlock vent immediately
+                Debug.Log("Magic Box activated! Puppet will spawn on collision.");
+            }
+            else
+            {
+                Debug.LogWarning($"Not enough collectables! Have: {CollectableManager.instance.GetCurrentCollectable()}, Need: {requiredObjects}");
+            }
         }
     }
 
-    void AttemptActivation()
+    // This is called when the player collides with the magic box item
+    public void OnMagicBoxItemCollected()
     {
-        // Verify collectables
-        if (CollectableManager.instance.GetCurrentCollectable() >= requiredObjects)
+        if (canSpawnPuppet && !hasActivated)
         {
             SpawnNPC();
-            UnlockVent();
             hasActivated = true;
-        }
-        else
-        {
-            Debug.LogWarning($"Not enough collectables! Have: {CollectableManager.instance.GetCurrentCollectable()}, Need: {requiredObjects}");
         }
     }
 
@@ -57,6 +63,8 @@ public class MagicBox : MonoBehaviour
         // Play effects
         if (spawnEffect != null)
             Instantiate(spawnEffect, spawnPoint.position, Quaternion.identity);
+
+        Debug.Log("Puppet spawned!");
     }
 
     void UnlockVent()
