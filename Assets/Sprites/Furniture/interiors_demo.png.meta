@@ -163,6 +163,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -597,7 +610,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      interiors_demo_0: 8612588538034376493
+      interiors_demo_1: -4614641565428117847
+      interiors_demo_10: -2888209746390099302
+      interiors_demo_11: -8080709909108051072
+      interiors_demo_12: -8100876981513368910
+      interiors_demo_13: 5645796599826313415
+      interiors_demo_14: -5675461410840693263
+      interiors_demo_15: -1531724486066034083
+      interiors_demo_16: 3364424499326811185
+      interiors_demo_17: -8615659204539380392
+      interiors_demo_18: 8653881374882159415
+      interiors_demo_2: 6339973755638070902
+      interiors_demo_3: 5721103533092863023
+      interiors_demo_4: -7157834511054090123
+      interiors_demo_5: 3114594125378968510
+      interiors_demo_6: -5641230113546345521
+      interiors_demo_7: 7188994427911180200
+      interiors_demo_8: -7099486573595065595
+      interiors_demo_9: -2386943294258431373
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

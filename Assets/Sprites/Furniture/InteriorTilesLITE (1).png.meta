@@ -271,6 +271,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1497,7 +1510,62 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      InteriorTilesLITE (1)_0: 7282255810203555229
+      InteriorTilesLITE (1)_1: -1835413555912868344
+      InteriorTilesLITE (1)_10: 5109209438736137819
+      InteriorTilesLITE (1)_11: -4444431443680250904
+      InteriorTilesLITE (1)_12: -2078918284373922061
+      InteriorTilesLITE (1)_13: 3788845134047787552
+      InteriorTilesLITE (1)_14: -5560819613083087737
+      InteriorTilesLITE (1)_15: -7621554496225761577
+      InteriorTilesLITE (1)_16: 6594541579966051628
+      InteriorTilesLITE (1)_17: 348531146498017192
+      InteriorTilesLITE (1)_18: 9200188415353388965
+      InteriorTilesLITE (1)_19: 7034378307883741955
+      InteriorTilesLITE (1)_2: -4375351227976167931
+      InteriorTilesLITE (1)_20: -1349816121813546603
+      InteriorTilesLITE (1)_21: 2686636864502862986
+      InteriorTilesLITE (1)_22: -8477968067251465736
+      InteriorTilesLITE (1)_23: 867234231711641484
+      InteriorTilesLITE (1)_24: -354675822790909022
+      InteriorTilesLITE (1)_25: -682805013757732565
+      InteriorTilesLITE (1)_26: -8259321609247245792
+      InteriorTilesLITE (1)_27: -1934977972693963096
+      InteriorTilesLITE (1)_28: 6407634786292963556
+      InteriorTilesLITE (1)_29: 8405965355170165963
+      InteriorTilesLITE (1)_3: -795828579638270062
+      InteriorTilesLITE (1)_30: 7592311377077944677
+      InteriorTilesLITE (1)_31: -8554416996029581466
+      InteriorTilesLITE (1)_32: 2483084632703891352
+      InteriorTilesLITE (1)_33: -2500863289226617199
+      InteriorTilesLITE (1)_34: -2051258741911093138
+      InteriorTilesLITE (1)_35: 7650543652342929662
+      InteriorTilesLITE (1)_36: 1602002163221979
+      InteriorTilesLITE (1)_37: -2863727872112582878
+      InteriorTilesLITE (1)_38: -5677077361020334852
+      InteriorTilesLITE (1)_39: 8137580999364237834
+      InteriorTilesLITE (1)_4: 5143064517248983938
+      InteriorTilesLITE (1)_40: -22914597983091183
+      InteriorTilesLITE (1)_41: -8697273404187110247
+      InteriorTilesLITE (1)_42: 8949186651709326000
+      InteriorTilesLITE (1)_43: -6330663317022816292
+      InteriorTilesLITE (1)_44: 9110868887084340318
+      InteriorTilesLITE (1)_45: -1067573099602552282
+      InteriorTilesLITE (1)_46: -4968871411476848988
+      InteriorTilesLITE (1)_47: -6892801177853376357
+      InteriorTilesLITE (1)_48: 1821737201121025758
+      InteriorTilesLITE (1)_49: -7907468029274718060
+      InteriorTilesLITE (1)_5: -12036448879892040
+      InteriorTilesLITE (1)_50: 4245125078748221058
+      InteriorTilesLITE (1)_51: 3682814539261843149
+      InteriorTilesLITE (1)_52: 3305524690406112734
+      InteriorTilesLITE (1)_53: -4949017834865621682
+      InteriorTilesLITE (1)_54: 5572532861903557836
+      InteriorTilesLITE (1)_6: 3747213268362425224
+      InteriorTilesLITE (1)_7: -3515359023337648080
+      InteriorTilesLITE (1)_8: -5516701259576621708
+      InteriorTilesLITE (1)_9: -4059525681873514253
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
