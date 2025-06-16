@@ -1,0 +1,1505 @@
+fileFormatVersion: 2
+guid: 38fbd7c0475d9b845963c09412aedf49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7282255810203555229
+    second: InteriorTilesLITE (1)_0
+  - first:
+      213: -1835413555912868344
+    second: InteriorTilesLITE (1)_1
+  - first:
+      213: -4375351227976167931
+    second: InteriorTilesLITE (1)_2
+  - first:
+      213: -795828579638270062
+    second: InteriorTilesLITE (1)_3
+  - first:
+      213: 5143064517248983938
+    second: InteriorTilesLITE (1)_4
+  - first:
+      213: -12036448879892040
+    second: InteriorTilesLITE (1)_5
+  - first:
+      213: 3747213268362425224
+    second: InteriorTilesLITE (1)_6
+  - first:
+      213: -3515359023337648080
+    second: InteriorTilesLITE (1)_7
+  - first:
+      213: -5516701259576621708
+    second: InteriorTilesLITE (1)_8
+  - first:
+      213: -4059525681873514253
+    second: InteriorTilesLITE (1)_9
+  - first:
+      213: 5109209438736137819
+    second: InteriorTilesLITE (1)_10
+  - first:
+      213: -4444431443680250904
+    second: InteriorTilesLITE (1)_11
+  - first:
+      213: -2078918284373922061
+    second: InteriorTilesLITE (1)_12
+  - first:
+      213: 3788845134047787552
+    second: InteriorTilesLITE (1)_13
+  - first:
+      213: -5560819613083087737
+    second: InteriorTilesLITE (1)_14
+  - first:
+      213: -7621554496225761577
+    second: InteriorTilesLITE (1)_15
+  - first:
+      213: 6594541579966051628
+    second: InteriorTilesLITE (1)_16
+  - first:
+      213: 348531146498017192
+    second: InteriorTilesLITE (1)_17
+  - first:
+      213: 9200188415353388965
+    second: InteriorTilesLITE (1)_18
+  - first:
+      213: 7034378307883741955
+    second: InteriorTilesLITE (1)_19
+  - first:
+      213: -1349816121813546603
+    second: InteriorTilesLITE (1)_20
+  - first:
+      213: 2686636864502862986
+    second: InteriorTilesLITE (1)_21
+  - first:
+      213: -8477968067251465736
+    second: InteriorTilesLITE (1)_22
+  - first:
+      213: 867234231711641484
+    second: InteriorTilesLITE (1)_23
+  - first:
+      213: -354675822790909022
+    second: InteriorTilesLITE (1)_24
+  - first:
+      213: -682805013757732565
+    second: InteriorTilesLITE (1)_25
+  - first:
+      213: -8259321609247245792
+    second: InteriorTilesLITE (1)_26
+  - first:
+      213: -1934977972693963096
+    second: InteriorTilesLITE (1)_27
+  - first:
+      213: 6407634786292963556
+    second: InteriorTilesLITE (1)_28
+  - first:
+      213: 8405965355170165963
+    second: InteriorTilesLITE (1)_29
+  - first:
+      213: 7592311377077944677
+    second: InteriorTilesLITE (1)_30
+  - first:
+      213: -8554416996029581466
+    second: InteriorTilesLITE (1)_31
+  - first:
+      213: 2483084632703891352
+    second: InteriorTilesLITE (1)_32
+  - first:
+      213: -2500863289226617199
+    second: InteriorTilesLITE (1)_33
+  - first:
+      213: -2051258741911093138
+    second: InteriorTilesLITE (1)_34
+  - first:
+      213: 7650543652342929662
+    second: InteriorTilesLITE (1)_35
+  - first:
+      213: 1602002163221979
+    second: InteriorTilesLITE (1)_36
+  - first:
+      213: -2863727872112582878
+    second: InteriorTilesLITE (1)_37
+  - first:
+      213: -5677077361020334852
+    second: InteriorTilesLITE (1)_38
+  - first:
+      213: 8137580999364237834
+    second: InteriorTilesLITE (1)_39
+  - first:
+      213: -22914597983091183
+    second: InteriorTilesLITE (1)_40
+  - first:
+      213: -8697273404187110247
+    second: InteriorTilesLITE (1)_41
+  - first:
+      213: 8949186651709326000
+    second: InteriorTilesLITE (1)_42
+  - first:
+      213: -6330663317022816292
+    second: InteriorTilesLITE (1)_43
+  - first:
+      213: 9110868887084340318
+    second: InteriorTilesLITE (1)_44
+  - first:
+      213: -1067573099602552282
+    second: InteriorTilesLITE (1)_45
+  - first:
+      213: -4968871411476848988
+    second: InteriorTilesLITE (1)_46
+  - first:
+      213: -6892801177853376357
+    second: InteriorTilesLITE (1)_47
+  - first:
+      213: 1821737201121025758
+    second: InteriorTilesLITE (1)_48
+  - first:
+      213: -7907468029274718060
+    second: InteriorTilesLITE (1)_49
+  - first:
+      213: 4245125078748221058
+    second: InteriorTilesLITE (1)_50
+  - first:
+      213: 3682814539261843149
+    second: InteriorTilesLITE (1)_51
+  - first:
+      213: 3305524690406112734
+    second: InteriorTilesLITE (1)_52
+  - first:
+      213: -4949017834865621682
+    second: InteriorTilesLITE (1)_53
+  - first:
+      213: 5572532861903557836
+    second: InteriorTilesLITE (1)_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 289
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9515ba8315cf0560800000000000000
+      internalID: 7282255810203555229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 351
+        width: 194
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e70e7681d4786e0800000000000000
+      internalID: -1835413555912868344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 360
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e49e06d31a743c0800000000000000
+      internalID: -4375351227976167931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 301
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297ae809f16a4f4f0800000000000000
+      internalID: -795828579638270062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 325
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283aa87ede5df5740800000000000000
+      internalID: 5143064517248983938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 303
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9282cd9ec35dff0800000000000000
+      internalID: -12036448879892040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 273
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8837f5e2d96c00430800000000000000
+      internalID: 3747213268362425224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 311
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030defbe79fe63fc0800000000000000
+      internalID: -3515359023337648080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 292
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4754cf2ee6db073b0800000000000000
+      internalID: -5516701259576621708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 248
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f09a5f86eaa9a7c0800000000000000
+      internalID: -4059525681873514253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 240
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eb0fe2aee87e640800000000000000
+      internalID: 5109209438736137819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3bcda46253252c0800000000000000
+      internalID: -4444431443680250904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 225
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee3deb5d23623e0800000000000000
+      internalID: -2078918284373922061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 245
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab2e3439ea49430800000000000000
+      internalID: 3788845134047787552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 229
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c482e360004d2b0800000000000000
+      internalID: -5560819613083087737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 197
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6ae20019cca3690800000000000000
+      internalID: -7621554496225761577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 164
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257b6aa0a4848b50800000000000000
+      internalID: 6594541579966051628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a78c2c2b3b36d400800000000000000
+      internalID: 348531146498017192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 193
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af7dcb7e92adaf70800000000000000
+      internalID: 9200188415353388965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303bf112dc12f9160800000000000000
+      internalID: 7034378307883741955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 195
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599453b836d744de0800000000000000
+      internalID: -1349816121813546603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 195
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84992d6ef9d84520800000000000000
+      internalID: 2686636864502862986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f11f5606f4385a80800000000000000
+      internalID: -8477968067251465736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f2b3e50f8090c00800000000000000
+      internalID: 867234231711641484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_24
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 199
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e024e730f31bf0800000000000000
+      internalID: -354675822790909022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 200
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b295d1825703686f0800000000000000
+      internalID: -682805013757732565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 171
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a3c1391cef06d80800000000000000
+      internalID: -8259321609247245792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeee5929c39525e0800000000000000
+      internalID: -1934977972693963096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e89d6793ed7ce850800000000000000
+      internalID: 6407634786292963556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4782d24fcf7a470800000000000000
+      internalID: 8405965355170165963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56143eeb8fe4d5960800000000000000
+      internalID: 7592311377077944677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 148
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667b71bb01b984980800000000000000
+      internalID: -8554416996029581466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 170
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897fb874150b57220800000000000000
+      internalID: 2483084632703891352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 166
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e15dda6162b4dd0800000000000000
+      internalID: -2500863289226617199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 163
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6089f1da077883e0800000000000000
+      internalID: -2051258741911093138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 159
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef81580eae03c2a60800000000000000
+      internalID: 7650543652342929662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 64
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd54ed13301b50000800000000000000
+      internalID: 1602002163221979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f18594caef148d0800000000000000
+      internalID: -2863727872112582878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 133
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc88f5f738f631b0800000000000000
+      internalID: -5677077361020334852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 134
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ad21eddce7ee070800000000000000
+      internalID: 8137580999364237834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 131
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1160c076b479eaff0800000000000000
+      internalID: -22914597983091183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 132
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99499f44be31d4780800000000000000
+      internalID: -8697273404187110247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b24dcb48d5e13c70800000000000000
+      internalID: 8949186651709326000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 101
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd742442147f428a0800000000000000
+      internalID: -6330663317022816292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 102
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5412d93bfe407e70800000000000000
+      internalID: 9110868887084340318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5d621ce73f21f0800000000000000
+      internalID: -1067573099602552282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae145807c50b0bb0800000000000000
+      internalID: -4968871411476848988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 63
+        width: 94
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98c7ae29d9d750a0800000000000000
+      internalID: -6892801177853376357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_48
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 64
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ededeea155c184910800000000000000
+      internalID: 1821737201121025758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490825219b7034290800000000000000
+      internalID: -7907468029274718060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec3e974c6b9ea30800000000000000
+      internalID: 4245125078748221058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc69852af4cfb1330800000000000000
+      internalID: 3682814539261843149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd70f741359fdd20800000000000000
+      internalID: 3305524690406112734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4503cd008e815bb0800000000000000
+      internalID: -4949017834865621682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorTilesLITE (1)_54
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4d3f40d1d955d40800000000000000
+      internalID: 5572532861903557836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
